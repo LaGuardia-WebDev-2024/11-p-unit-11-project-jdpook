@@ -10,3 +10,15 @@ html {
 h1 {
   font-family: "Poetsen One", sans-serif;
 }
+
+.img1 {
+  border: 8px dotted rgb(255, 255, 255);
+}
+.img2 {
+  border: 8px dotted rgb(255, 255, 255);
+}
+
+.img3 {
+  border: 8px dotted rgb(255, 255, 255);
+}
+
